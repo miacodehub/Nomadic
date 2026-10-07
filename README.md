@@ -6,10 +6,10 @@ A location-based recommendation system that recommends places based on a user's 
 
 ## Tech Used:
 
-Typescript w/ Express.js for frontend and backend
-PostgresSQL with pgvector
-Docker container
-Vector embedding for query(vibe) and location description
-Content based filtering with semantic search
+* Typescript w/ Express.js for frontend and backend
+* PostgresSQL with pgvector
+* Docker container
+* Vector embedding for query(vibe) and location description
+* Content based filtering with semantic search
 
 
